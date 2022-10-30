@@ -100,7 +100,7 @@ def menu():
     print ''
     print '\033[0;93mAUTHOR     : MR-ZIHAD'
     print '\033[0;94mFACEBOOK   : MD ZAHIDUL ISLAM'
-    print '\033[0;96mGITHUB    : MR-ZIHAD'
+    print '\033[0;96mGITHUB     : MR-ZIHAD'
     print ''
     print '\033[0;96mONLY BANGLADESHI ACCOUNTS ARE AVAILABLE'
     print '\033[0;91m'
